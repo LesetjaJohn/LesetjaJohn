@@ -1,5 +1,5 @@
 - Hello World! It's John Mogashoa Here! #SoftPlugzICT_Solutions
-- 👀 A Mobile and Web Developer using Xamarin Forms and Wordpress, WiX and WIX-Velo, and (ASP.net Beginner)
+- 👀 A Mobile and Web Developer using .Net Maui and ASP.net | WiX and WIX-Velo for basic Websites
 - 🌱 I’m currently Exploring Game Development Using Unity
 - 💞️ I’m looking to collaborate on any Open source Project
 - 📫 How to reach me ... admin@softplugz.com || ljmogashoa04@gmail.com || +27607346043 [Whatsapp and Calls]
