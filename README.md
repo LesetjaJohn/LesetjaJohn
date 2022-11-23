@@ -2,7 +2,7 @@
 - 👀 A Mobile and Web Developer using .Net Maui and ASP.net | WiX and WIX-Velo for basic Websites
 - 🌱 I’m currently Exploring Game Development Using Unity
 - 💞️ I’m looking to collaborate on any Open source Project
-- 📫 How to reach me ... admin@softplugz.com || ljmogashoa04@gmail.com || +27607346043 [Whatsapp and Calls]
+- 📫 How to reach me ... admin@softplugz.tech || ljmogashoa04@gmail.com || +27607346043 [Whatsapp and Calls]
 
 <!---
 LesetjaJohn/LesetjaJohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
