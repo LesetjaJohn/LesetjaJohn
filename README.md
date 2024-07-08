@@ -1,6 +1,6 @@
 - Hello World! It's John Mogashoa Here! #SoftPlugzICT_Solutions
-- 👀 A Mobile and Web Developer using .Net Maui and ASP.net | WiX and WIX-Velo for basic Websites
-- 🌱 I’m currently Exploring Game Development Using Unity
+- 👀 A .Net Web, Mobile, and Desktop Developer
+- 🌱 Familiar with Game Development Using Unity and C#
 - 💞️ I’m looking to collaborate on any Open source Project
 - 📫 How to reach me ... admin@softplugzict.tech || ljmogashoa04@gmail.com || +27607346043 [Whatsapp and Calls]
 
